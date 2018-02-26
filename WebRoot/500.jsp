@@ -1,9 +1,8 @@
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ page contentType="text/html;charset=UTF-8" language="java"%>
 <html>
 <head>
-    <title></title>
+<title></title>
 </head>
-<body>
-  500
+<body>500
 </body>
 </html>
